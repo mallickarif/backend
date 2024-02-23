@@ -4,4 +4,6 @@ vehicle ownership and maintenance.
 for this the dependencies to installed mongoose, express, bcrypt, body-parser, cookie-parser, cors, dotenv, jsonwebtoken, method-override tobe installed from npm(node package manager).
 for the models create schema for vehicle, product, vendor, and then module.exports the vehicleSchema, productSchema, vendorSchema.
 for the the controllers craete the vehicleController, vendorController, productController. for the API documentation method-override for the put,patch, and delete requests.
+for the ApiError using class constructor concept.
+For the routes get, post, put, delete.
 for authentication and authorization jwt(jsonwebtoken), bcrypt, cors.
